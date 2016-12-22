@@ -12,7 +12,7 @@
 // @run-at       document-start
 // @grant        none
 // ==/UserScript==
-/* jshint -W097 */
+/*老夫开车怕过谁*/
 'use strict';
 
 Object.defineProperty(Object.getPrototypeOf(navigator),'platform',{get:function(){return 'sb_baidu';}})
